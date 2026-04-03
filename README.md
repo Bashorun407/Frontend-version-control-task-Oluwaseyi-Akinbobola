@@ -8,3 +8,8 @@
  (A first commit has already been made for feature-header branch)
  1. second commit for feature-header branch
  2. third commit for feature-header branch
+
+ Commits: (Feature-Footer branch)
+ 1. first commit for feature-footer
+ 2. second commit for feature-footer
+ 3. third commit for feature-footer
