@@ -1,15 +1,26 @@
- Title: Version Control Deliverable
- Author: Oluwaseyi Akinbobola
- Date: 3rd April 2026
+ # Title: Version Control Deliverable
+ ## Author: Oluwaseyi Akinbobola
+ ## Date: 3rd April 2026
 
  Purpose: To assess my understanding of version control workflows, collaboration practices, and Git commands learned in Week 10.
  
- Commits:
+ ## Commits:
  (A first commit has already been made for feature-header branch)
  1. second commit for feature-header branch
  2. third commit for feature-header branch
 
- Commits: (Feature-Footer branch)
+ ## Commits: (Feature-Footer branch)
  1. first commit for feature-footer
  2. second commit for feature-footer
  3. third commit for feature-footer
+
+ ## Intentional Error
+ 1. This is a commit on main branch
+
+ ## Branch Names:
+ 1. main: This is the main branch
+ 2. feature-header-renamed: This branch was renamed from "feature-header" and has 3 commits
+ 3. feature-footer: This branch has 3 commits.
+
+
+ ##  
